@@ -1,0 +1,22 @@
+[{
+  "salon_name": "The Salon",
+  "address": "3 Main St, Huntington Beach, CA 92648",
+  "campaign_name": "Campaign A",
+  "date": "11/1/2022",
+  "time": "11:00:00",
+  "contact_list": ""
+},{
+  "salon_name": "Vonage Stylist",
+  "address": "2 Main St, Huntington Beach, CA 92648",
+  "campaign_name": "Campaign B",
+  "date": "11/1/2022",
+  "time": "11:00:00",
+  "contact_list": ""
+},{
+  "salon_name": "HenkelHair",
+  "address": "1 Main St, Huntington Beach, CA 92648",
+  "campaign_name": "Campaign C",
+  "date": "11/1/2022",
+  "time": "11:00:00",
+  "contact_list": ""
+}]
